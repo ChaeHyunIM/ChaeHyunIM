@@ -12,6 +12,10 @@
 
 ---
 
+### 📊 Stats
+
+[![Chaehyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChaeHyunIm)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 🧑‍💻 Languages
 
 <div style={display:flex}>
