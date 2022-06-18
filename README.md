@@ -2,20 +2,13 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm ChaeHyun</h1>
 <h3 align="center">🌐 FrontEnd Developer, Tech Explorer</h3>
 
-- 🌱 I’m currently learning **React-Native, TypeScript**
+- 🌱 I’m currently learning **React, React-Native, TypeScript**
 
 - 👨‍💻 All of my Works are available [here](https://github.com/ChaeHyunIM?tab=repositories)
 
 - 📝 I regularly write articles on my [blog](https://velog.io/@klqwrx7004)
 
-- 📫 How to reach me **[notion](https://www.notion.so/26011720aa52478299ad6e607d42b0ed)**
-
----
-
-### 📊 Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=RakeshPotnuru&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true" alt="rakesh's github stats" width="48%" align="right" >
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RakeshPotnuru&theme=tokyonight&hide_border=true" alt="rakesh's github streak" width="48%" >
+- 📫 Want to know me more? **[click!](https://www.notion.so/26011720aa52478299ad6e607d42b0ed)**
 
 ---
 
