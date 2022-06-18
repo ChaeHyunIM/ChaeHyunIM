@@ -14,7 +14,7 @@
 
 ### 📊 Stats
 
-[![Chaehyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChaeHyunIm&theme=tokyonight&show_icons=true)] (https://github.com/anuraghazra/github-readme-stats)
+![ChaeHyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChaeHyunIm&theme=tyokonight&show_icons=true)
 
 ### 🧑‍💻 Languages
 
@@ -51,4 +51,7 @@
 </div>
 ---
 
+### 🔝 Most used languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaeHyunIm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
