@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm ChaeHyun</h1>
 <h3 align="center">🌐 FrontEnd Developer, Tech Explorer</h3>
 
-- 🌱 I’m currently learning **`React`, `React-Native`, `TypeScript`**
+- 🌱 I’m currently learning **`React`, `React-Native`, `TypeScript`, 'Firebase`**
 
 - 👨‍💻 All of my Works are available [here](https://github.com/ChaeHyunIM?tab=repositories)
 
