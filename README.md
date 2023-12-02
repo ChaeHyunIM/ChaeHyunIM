@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on my [blog](https://velog.io/@klqwrx7004)
 
-- 📫 Want to know me more? **[click!]([https://www.notion.so/26011720aa52478299ad6e607d42b0ed](https://triangular-coriander-f49.notion.site/a5915cfb0f5b4760ae2d1879f0272bd9?pvs=4))**
+- 📫 Want to know me more? **[click!](https://www.notion.so/26011720aa52478299ad6e607d42b0ed](https://triangular-coriander-f49.notion.site/a5915cfb0f5b4760ae2d1879f0272bd9?pvs=4)**
 
 ---
 
