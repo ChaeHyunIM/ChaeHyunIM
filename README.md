@@ -6,8 +6,6 @@
 
 - 👨‍💻 All of my Works are available [here](https://github.com/ChaeHyunIM?tab=repositories)
 
-- 📝 I regularly write articles on my [blog](https://velog.io/@klqwrx7004)
-
 - 📫 Want to know me more? **[Click!](https://triangular-coriander-f49.notion.site/a5915cfb0f5b4760ae2d1879f0272bd9?pvs=4)**
 
 ---
